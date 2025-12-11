@@ -1,2 +1,6 @@
+# Dependencias para pruebas
+pytest
+httpx
+pytest-asyncio
 fastapi
 uvicorn
